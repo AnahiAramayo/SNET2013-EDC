@@ -8,6 +8,7 @@ SNET2013-EDC
 
 Esta es la presentación del tercer tema "Emprender desde el Cooperativismo" expuesta en
 la Semana Nacional del Emprendedor Tecnológico 2013, en el dia 03-09-2013 en Palpala, Jujuy.
+Herramienta Libre utilizada para el desarrollo de esta presentación es REVEAL.JS
 
 Expositoras: 
            A.P.U. Vanesa Anahí Aramayo.
